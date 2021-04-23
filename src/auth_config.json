@@ -1,0 +1,6 @@
+{
+    "domain": "{AUTH0_DOMAIN}",
+    "clientId": "{AUTH0_CLIENTID}",
+    "scope": "openid profile email"
+}
+  
